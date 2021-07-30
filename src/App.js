@@ -38,7 +38,6 @@ const App = () => {
     setStud(stud);
   }
 
-
   return (
     <div>
       <StudentForm getData={getData} StudData={stud}/>
